@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vinayak-garudi-b13792211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinayak-garudi-b13792211/" height="30" width="40" /></a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SBNaHN_4ybI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=SBNaHN_4ybI&t=4s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=sbnahn_4ybi&t=4s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
