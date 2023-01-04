@@ -8,5 +8,5 @@ Overall, "Plan My Meal" is a convenient and easy-to-use app that helps you plan 
 
 It is my first group Android project built in the third semester (second year)
 
-<iframe src="https://www.youtube.com/watch?v=SBNaHN_4ybI&t=11s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SBNaHN_4ybI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
