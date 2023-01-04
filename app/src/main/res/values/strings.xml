@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MealMyPlan</string>
+    <string-array name="Testing">
+        <item>"A"</item>
+        <item>"B"</item>
+        <item>"C"</item>
+        <item>"D"</item>
+        <item>"E"</item>
+        <item>"K"</item>
+
+
+    </string-array>
+    <string-array name="Region">
+        <item>"Goregoan"></item>
+        <item>"Kandivali"></item>
+        <item>"Malad"></item>
+        <item>"Borivali"></item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="chooseone">Chooseone</string>
+
+    <string name="chef">Chef</string>
+    <string name="customer">customer</string>
+    <string name="profile">Profile</string>
+    <string name="track">Track</string>
+    <string name="orders">Orders</string>
+    <string name="cart">Cart</string>
+    <string name="home">Home</string>
+    <string name="targetweight">TargetWeight</string>
+    <string name="dishName">Dish</string>
+    <string name="enteryouremail">EnterYourEmail</string>
+    <string name="password" tools:ignore="DuplicateDefinition">Password</string>
+    <string name="sigin">Sigin</string>
+    <string name="physicalactivity">PhysicalActivity</string>
+    <string name="email">Email</string>
+    <string name="breakfastplan">BreakfastPlan</string>
+
+</resources>

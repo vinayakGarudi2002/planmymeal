@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mealmyplan">
+
+    <uses-permission android:name="andriod.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MealMyPlan">
+        <activity
+            android:name=".ChossePlan1"
+            android:exported="false" />
+        <activity
+            android:name=".ViewMyPlan"
+            android:exported="false" />
+        <activity
+            android:name=".ViewDirectPlan"
+            android:exported="false" />
+        <activity
+            android:name=".UpdateAQ"
+            android:exported="false" />
+<!--        <activity-->
+<!--            android:name=".UpdateA"-->
+<!--            android:exported="false" />-->
+        <activity
+            android:name=".ChefViewDirectPlan"
+            android:exported="false" />
+        <activity
+            android:name=".CustomBreakfastPlan"
+            android:exported="false" />
+        <activity
+            android:name=".ChefCustomClass"
+            android:exported="false" />
+        <activity
+            android:name=".UpdateInfo"
+            android:exported="false" />
+        <activity
+            android:name=".Pay2"
+            android:exported="false" />
+        <activity
+            android:name=".DinnerC"
+            android:exported="false" />
+        <activity
+            android:name=".LunchC"
+            android:exported="false" />
+        <activity
+            android:name=".Dinner"
+            android:exported="false" />
+        <activity
+            android:name=".Lunch"
+            android:exported="false" />
+        <activity
+            android:name=".cheffffff"
+            android:exported="false" />
+        <activity
+            android:name=".ChefDirectOrder"
+            android:exported="false" />
+        <activity
+            android:name=".Chef3"
+            android:exported="false" />
+        <activity
+            android:name=".Chef2"
+            android:exported="false" />
+        <activity
+            android:name=".Chef1"
+            android:exported="false" />
+        <activity
+            android:name=".ChefLogin"
+            android:exported="false" />
+        <activity
+            android:name=".CPnew"
+            android:exported="false" />
+        <activity
+            android:name=".BreakfastC"
+            android:exported="false" />
+        <activity
+            android:name=".Breakfast"
+            android:exported="false" />
+        <activity
+            android:name=".CoustomDinner"
+            android:exported="false" />
+        <activity
+            android:name=".ChooseOne"
+            android:exported="false" />
+        <activity
+            android:name=".ChossePlan"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminK"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminE"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminD"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminC"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminB"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminA"
+            android:exported="false" />
+        <activity
+            android:name=".DashBoard"
+            android:exported="false" />
+        <activity
+            android:name=".Pay"
+            android:exported="false" />
+        <activity
+            android:name=".OneMonthPlan"
+            android:exported="false" />
+        <activity
+            android:name=".OrderPlan"
+            android:exported="false" />
+        <activity
+            android:name=".ConfirmPlan"
+            android:exported="false" />
+        <activity
+            android:name=".Testing1"
+            android:exported="false" />
+        <activity
+            android:name=".Testing"
+            android:exported="true" />
+        <activity
+            android:name=".Signup"
+            android:exported="true" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".VitaminEK"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminDK"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminDE"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminCK"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminCE"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminCD"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminBK"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminBE"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminBD"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminBC"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminAK"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminAE"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminAD"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminAC"
+            android:exported="false" />
+        <activity
+            android:name=".VitaminAB"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

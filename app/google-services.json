@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509284857292",
+    "project_id": "mealmyplan-1",
+    "storage_bucket": "mealmyplan-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509284857292:android:f45a53d5fba8776c9b1969",
+        "android_client_info": {
+          "package_name": "com.example.mealmyplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509284857292-dsf7he3930tf6evg70lj411cavefmunb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKSDjbWdXk_W-fT40sRQZCktXi9w0n9M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509284857292-dsf7he3930tf6evg70lj411cavefmunb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
