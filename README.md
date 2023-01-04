@@ -5,3 +5,5 @@ In addition to the automated meal planning feature, the app also allows you to o
 The app also includes a chef login feature, which allows chefs to view a list of all customer orders and their corresponding meal plans. This helps chefs easily manage and fulfill customer orders, ensuring that everyone gets the nourishment they need.
 
 Overall, "Plan My Meal" is a convenient and easy-to-use app that helps you plan and order healthy meals, tailored to your specific needs. Whether you want a customized meal plan or just need some inspiration for your daily meals, this app has you covered.
+
+It is my first group Android project built in the third semester (second year)
